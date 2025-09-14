@@ -1,8 +1,8 @@
 # Smart Home Automation Using NodeMCU
 
-![Dashboard](frontend/dashboard.png)
+![Dashboard](dashboard.png)
 
-![Circuit Connection](frontend/circuit.png)
+![Circuit Connection](circuit.png)
 
 ## Overview
 This project is a complete smart home automation system using NodeMCU (ESP8266), featuring:
@@ -86,3 +86,4 @@ MIT
 
 ---
 > Made by Eshwar Creativity
+
