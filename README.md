@@ -23,7 +23,7 @@ This project is a complete smart home automation system using NodeMCU (ESP8266),
 
 
 ## Circuit Diagram
-<img src="smart Home.png" alt="circuit diagram img" width="600px" height="300px">
+<img src="smart Home.png" alt="circuit diagram img">
 See the image above for wiring details. Connect:
 - NodeMCU to 4-channel relay module
 - Ultrasonic sensors for water tank and room
@@ -95,6 +95,7 @@ MIT
 
 ---
 > Made by Eshwar Creativity
+
 
 
 
