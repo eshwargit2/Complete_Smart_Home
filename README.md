@@ -2,7 +2,7 @@
 
 <img src="Dashboard.png" alt="Dashboard img">
 
-<img src="smart Home.png" alt="circuit diagram img">
+
 
 ## Overview
 This project is a complete smart home automation system using NodeMCU (ESP8266), featuring:
@@ -18,7 +18,12 @@ This project is a complete smart home automation system using NodeMCU (ESP8266),
 - Fire alert system
 - Voice and chatbot commands (text/voice)
 
+
+
+
+
 ## Circuit Diagram
+<img src="smart Home.png" alt="circuit diagram img" width="600px" height="300px">
 See the image above for wiring details. Connect:
 - NodeMCU to 4-channel relay module
 - Ultrasonic sensors for water tank and room
@@ -33,6 +38,10 @@ The dashboard provides:
 - Water level visualization
 
 ## Getting Started
+
+
+
+
 
 ### 1. Clone the Repository
 ```sh
@@ -86,5 +95,6 @@ MIT
 
 ---
 > Made by Eshwar Creativity
+
 
 
